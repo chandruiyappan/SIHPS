@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 06-05-2024
-## Register Number: 212223220121
-## Name: VARSHA  A
+# Date: 08-05-2024
+## Register Number: 212221220007
+## Name: CHANDRU I
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
